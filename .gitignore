@@ -1,4 +1,6 @@
 .ipynb_checkpoints
 *.swp
+data
 
 worksheet.py
+data_explorer.ipynb
