@@ -1,2 +1,2 @@
-Initial work comparing two regularization techniques. 
+Initial work comparing two regularization techniques on multiple datasets. 
 
